@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="390" viewBox="0 0 960 390" role="img" aria-labelledby="title desc">
+  <title id="title">Lucas Campos — QA e Analista de Testes</title>
+  <desc id="desc">Terminal preto com verde neon, um inseto digital animado e a apresentação de Lucas: testes manuais, testes de API e automação de testes.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07150d"/><stop offset="1" stop-color="#020805"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#194a2b" stroke-opacity=".3"/></pattern>
+    <pattern id="lines" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1H4" stroke="#000" stroke-opacity=".25"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="958" height="388" rx="16"/></clipPath>
+  </defs>
+  <style>
+    text {font-family: ui-monospace, SFMono-Regular, Consolas, monospace;}
+    .float {animation: float 5s ease-in-out infinite;}
+    .cursor {animation: cursor 2s step-end infinite;}
+    .scan {animation: scan 8s linear infinite;}
+    @keyframes float {0%,100% {transform:translateY(0)} 50% {transform:translateY(-7px)}}
+    @keyframes cursor {0%,55% {opacity:1} 56%,100% {opacity:0}}
+    @keyframes scan {0% {transform:translateY(0);opacity:0} 10%,85% {opacity:.4} 100% {transform:translateY(200px);opacity:0}}
+    @media (prefers-reduced-motion: reduce) {.float,.cursor,.scan {animation:none}}
+  </style>
+  <rect x="1" y="1" width="958" height="388" rx="16" fill="url(#bg)" stroke="#287c42"/>
+  <g clip-path="url(#frame)">
+    <rect x="1" y="45" width="958" height="344" fill="url(#grid)"/>
+    <path d="M1 45H959" stroke="#235137"/>
+    <circle cx="25" cy="23" r="5" fill="#164d2b"/><circle cx="44" cy="23" r="5" fill="#279a49"/><circle cx="63" cy="23" r="5" fill="#39ff88"/>
+    <text x="87" y="28" font-size="12" fill="#93b89e">lucas@qa-lab ~ / perfil</text>
+    <text x="925" y="28" text-anchor="end" font-size="11" fill="#39ff88">QUALITY ASSURANCE</text>
+    <text x="40" y="95" font-size="13" letter-spacing="3" fill="#39ff88">// INVESTIGAR · TESTAR · EVOLUIR</text>
+    <text x="39" y="150" font-size="44" font-weight="700" letter-spacing="-1" fill="#d9ffe5">LUCAS CAMPOS</text>
+    <path d="M40 163H384" stroke="#39ff88" stroke-width="2"/>
+    <text x="40" y="198" font-size="19" fill="#75ff9b">Em busca de uma vaga como QA Júnior</text>
+    <text x="40" y="244" font-size="15" fill="#39ff88">&gt;</text><text x="62" y="244" font-size="15" fill="#b4d5be">Testes manuais e funcionais</text>
+    <text x="40" y="273" font-size="15" fill="#39ff88">&gt;</text><text x="62" y="273" font-size="15" fill="#b4d5be">Web / PWA / Mobile / APIs REST</text>
+    <text x="40" y="302" font-size="15" fill="#39ff88">&gt;</text><text x="62" y="302" font-size="15" fill="#b4d5be">ADS @ Fatec Itapetininga</text>
+    <rect class="cursor" x="269" y="290" width="8" height="15" fill="#39ff88"/>
+    <rect x="643" y="77" width="275" height="250" rx="10" fill="#040e08" stroke="#2b7543"/>
+    <text x="663" y="101" font-size="11" letter-spacing="2" fill="#84b391">BUG DETECTIVE</text>
+    <text x="898" y="101" font-size="11" text-anchor="end" fill="#39ff88">&lt;/&gt;</text>
+    <g class="float" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="782" cy="198" r="65" stroke="#205331" stroke-dasharray="3 9"/>
+      <path d="M754 157L742 141M809 157L821 141" stroke="#85ffb1" stroke-width="6"/>
+      <path d="M749 183L727 174L714 180M748 205H719M750 227L728 238L714 232M815 183L837 174L850 180M816 205H845M814 227L836 238L850 232" stroke="#39ff88" stroke-width="6"/>
+      <path d="M758 175Q758 154 782 154Q806 154 806 175" stroke="#85ffb1" stroke-width="4" fill="#0c2818"/>
+      <rect x="749" y="174" width="66" height="72" rx="25" fill="#0e3320" stroke="#39ff88" stroke-width="4"/>
+      <path d="M782 179V239" stroke="#39ff88" stroke-width="3"/>
+      <circle cx="769" cy="198" r="4" fill="#b1ffcc" stroke="none"/><circle cx="795" cy="221" r="4" fill="#b1ffcc" stroke="none"/>
+      <path d="M738 184H758M805 218H825" stroke="#b1ffcc" stroke-width="2" opacity=".8"/>
+    </g>
+    <text x="782" y="296" text-anchor="middle" font-size="12" letter-spacing="1" fill="#84b391">CURIOSIDADE EM CADA TESTE</text>
+    <path class="scan" d="M645 115H916" stroke="#39ff88"/>
+    <path d="M1 345H959" stroke="#235137"/>
+    <circle cx="43" cy="367" r="4" fill="#39ff88"/>
+    <text x="58" y="372" font-size="12" fill="#93b89e">PORTFÓLIO EM EVOLUÇÃO</text>
+    <text x="921" y="372" font-size="12" text-anchor="end" fill="#39ff88">QUALIDADE / BUGS / USABILIDADE</text>
+    <rect width="960" height="390" fill="url(#lines)" pointer-events="none"/>
+  </g>
+</svg>
+
+
