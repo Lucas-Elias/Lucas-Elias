@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lucas Campos — QA Lab: testes manuais, APIs e automação de testes](./qa-lab.svg)
+![Lucas Campos — QA Lab: testes manuais, APIs e automação de testes](./qa-lab.svg?v=2)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-39ff88?style=for-the-badge&logo=linkedin&logoColor=39ff88&labelColor=07150d)](https://www.linkedin.com/in/lucas-campos-qa/)
 ![Objetivo](https://img.shields.io/badge/Objetivo-QA_Júnior-39ff88?style=for-the-badge&labelColor=07150d)
@@ -59,4 +59,5 @@ Estes repositórios reúnem meus estudos de programação e projetos acadêmicos
 [Me encontre no LinkedIn ↗](https://www.linkedin.com/in/lucas-campos-qa/)
 
 </div>
+
 
