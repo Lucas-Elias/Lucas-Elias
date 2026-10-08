@@ -1,6 +1,6 @@
 <div align="center">
 
-![Lucas Campos — QA Lab: testes manuais, APIs e automação em aprendizado](./qa-lab.svg)
+![Lucas Campos — QA Lab: testes manuais, APIs e automação de testes](./qa-lab.svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-39ff88?style=for-the-badge&logo=linkedin&logoColor=39ff88&labelColor=07150d)](https://www.linkedin.com/in/lucas-campos-qa/)
 ![Objetivo](https://img.shields.io/badge/Objetivo-QA_Júnior-39ff88?style=for-the-badge&labelColor=07150d)
@@ -11,7 +11,7 @@
 
 Sou o **Lucas**, graduando em **Análise e Desenvolvimento de Sistemas na FATEC**. Tenho experiência de estágio com testes de software em aplicações desenvolvidas com **Laravel** e busco uma oportunidade como **QA Júnior**.
 
-Atuei principalmente com **testes manuais**, utilizei **Insomnia para testes de API** e tive contato inicial com **Cypress e Playwright** para automação. Quero continuar aprendendo e contribuir com a qualidade dos produtos.
+Atuei principalmente com **testes manuais**, utilizei **Insomnia para testes de API** e desenvolvi conhecimentos em **automação de testes com Cypress e Playwright**. Quero continuar aprendendo e contribuir com a qualidade dos produtos.
 
 ## `02` · Meu laboratório de QA 🐛
 
@@ -20,14 +20,14 @@ Atuei principalmente com **testes manuais**, utilizei **Insomnia para testes de 
 | **Testes manuais** | Testes em aplicações web durante o estágio |
 | **Testes de API** | Uso do Insomnia para testar APIs |
 | **Ambientes** | Variáveis no Insomnia para alternar configurações entre master e alpha |
-| **Automação** | Contato inicial com Cypress e Playwright |
+| **Automação** | Conhecimentos em automação de testes com Cypress e Playwright |
 | **Contexto técnico** | Aplicações desenvolvidas com Laravel |
 
 <div align="center">
 
 ![Insomnia](https://img.shields.io/badge/Insomnia-Testes_de_API-39ff88?style=flat-square&logo=insomnia&logoColor=39ff88&labelColor=07150d)
-![Cypress](https://img.shields.io/badge/Cypress-Contato_inicial-39ff88?style=flat-square&logo=cypress&logoColor=39ff88&labelColor=07150d)
-![Playwright](https://img.shields.io/badge/Playwright-Contato_inicial-39ff88?style=flat-square&labelColor=07150d)
+![Cypress](https://img.shields.io/badge/Cypress-Automação_de_testes-39ff88?style=flat-square&logo=cypress&logoColor=39ff88&labelColor=07150d)
+![Playwright](https://img.shields.io/badge/Playwright-Automação_de_testes-39ff88?style=flat-square&labelColor=07150d)
 ![Laravel](https://img.shields.io/badge/Laravel-Aplicações_testadas-39ff88?style=flat-square&logo=laravel&logoColor=39ff88&labelColor=07150d)
 
 </div>
@@ -59,3 +59,4 @@ Estes repositórios reúnem meus estudos de programação e projetos acadêmicos
 [Me encontre no LinkedIn ↗](https://www.linkedin.com/in/lucas-campos-qa/)
 
 </div>
+
