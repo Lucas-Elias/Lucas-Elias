@@ -1,53 +1,61 @@
 <div align="center">
 
-# Olá, eu sou o Lucas 👋
-### QA · Testes manuais · Testes de API
+![Lucas Campos — QA Lab: testes manuais, APIs e automação em aprendizado](./qa-lab.svg)
 
-Graduando em ADS na FATEC | Em busca de uma oportunidade como QA Júnior
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Campos-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/lucas-campos-qa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-39ff88?style=for-the-badge&logo=linkedin&logoColor=39ff88&labelColor=07150d)](https://www.linkedin.com/in/lucas-campos-qa/)
+![Objetivo](https://img.shields.io/badge/Objetivo-QA_Júnior-39ff88?style=for-the-badge&labelColor=07150d)
 
 </div>
 
----
+## `01` · Quem está por trás dos testes?
 
-## 👨‍💻 Sobre mim
+Sou o **Lucas**, graduando em **Análise e Desenvolvimento de Sistemas na FATEC**. Tenho experiência de estágio com testes de software em aplicações desenvolvidas com **Laravel** e busco uma oportunidade como **QA Júnior**.
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na FATEC e tenho experiência de estágio com testes de software em aplicações desenvolvidas com Laravel.
+Atuei principalmente com **testes manuais**, utilizei **Insomnia para testes de API** e tive contato inicial com **Cypress e Playwright** para automação. Quero continuar aprendendo e contribuir com a qualidade dos produtos.
 
-Atuei principalmente com **testes manuais**, utilizei **Insomnia para testes de API** e tive contato inicial com **Cypress e Playwright** para automação. Busco uma oportunidade como **QA Júnior** para contribuir com a qualidade dos produtos e continuar evoluindo na área.
+## `02` · Meu laboratório de QA 🐛
 
-## 🧪 Experiência em qualidade
+| Área | Experiência |
+| :--- | :--- |
+| **Testes manuais** | Testes em aplicações web durante o estágio |
+| **Testes de API** | Uso do Insomnia para testar APIs |
+| **Ambientes** | Variáveis no Insomnia para alternar configurações entre master e alpha |
+| **Automação** | Contato inicial com Cypress e Playwright |
+| **Contexto técnico** | Aplicações desenvolvidas com Laravel |
 
-- Testes manuais em aplicações web.
-- Testes de API com Insomnia.
-- Configuração de variáveis de ambiente para alternar entre master e alpha.
-- Contato inicial com automação de testes utilizando Cypress e Playwright.
-- Atuação em aplicações desenvolvidas com Laravel.
+<div align="center">
 
-## 🛠️ Ferramentas e contexto técnico
+![Insomnia](https://img.shields.io/badge/Insomnia-Testes_de_API-39ff88?style=flat-square&logo=insomnia&logoColor=39ff88&labelColor=07150d)
+![Cypress](https://img.shields.io/badge/Cypress-Contato_inicial-39ff88?style=flat-square&logo=cypress&logoColor=39ff88&labelColor=07150d)
+![Playwright](https://img.shields.io/badge/Playwright-Contato_inicial-39ff88?style=flat-square&labelColor=07150d)
+![Laravel](https://img.shields.io/badge/Laravel-Aplicações_testadas-39ff88?style=flat-square&logo=laravel&logoColor=39ff88&labelColor=07150d)
 
-| Ferramenta / tecnologia | Minha experiência |
-| --- | --- |
-| Insomnia | Testes de API e configuração de ambientes |
-| Cypress | Contato inicial com automação de testes |
-| Playwright | Contato inicial com automação de testes |
-| Laravel | Framework das aplicações testadas |
+</div>
 
-## 📚 Projetos e estudos
+## `03` · Projetos e estudos 📂
 
-- [Estudos de APIs](https://github.com/Lucas-Elias/Curso_Api--Learning-about-APIs)
-- [Estudos de Java](https://github.com/Lucas-Elias/dio-basic-java)
-- [Exercícios de programação web](https://github.com/Lucas-Elias/Exercicios-Prog-web1)
+Estes repositórios reúnem meus estudos de programação e projetos acadêmicos.
 
-## 🐍 Minhas contribuições
+| Repositório | Conteúdo |
+| :--- | :--- |
+| [Estudos de APIs](https://github.com/Lucas-Elias/Curso_Api--Learning-about-APIs) | Repositório do curso de APIs |
+| [Estudos de Java](https://github.com/Lucas-Elias/dio-basic-java) | Exercícios e aprendizado de Java |
+| [Programação web](https://github.com/Lucas-Elias/Exercicios-Prog-web1) | Exercícios das aulas de programação web |
+
+## `04` · Histórico de contribuições 🐍
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucas-Elias/Lucas-Elias/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Elias/Lucas-Elias/output/github-snake.svg" />
-  <img alt="Cobrinha percorrendo meu histórico de contribuições no GitHub" src="https://raw.githubusercontent.com/Lucas-Elias/Lucas-Elias/output/github-snake.svg" />
+  <img alt="Cobrinha percorrendo meu histórico de contribuições no GitHub" src="https://raw.githubusercontent.com/Lucas-Elias/Lucas-Elias/output/github-snake.svg" width="100%" />
 </picture>
 
 ---
 
-📫 [Vamos conversar pelo LinkedIn](https://www.linkedin.com/in/lucas-campos-qa/)
+<div align="center">
+
+**Vamos conversar sobre qualidade de software?**
+
+[Me encontre no LinkedIn ↗](https://www.linkedin.com/in/lucas-campos-qa/)
+
+</div>
